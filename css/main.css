@@ -1,0 +1,43 @@
+.caja-1{
+  width: 600px;
+  height: 600px;
+  background-color: white;
+  border: solid 1px;
+  margin: 0 auto;
+}
+.caja2{
+  width: 200px;
+  height: 200px;
+  margin: 65px auto;
+}
+#red{
+  background-color: red;
+}
+#blue{
+  background-color: blue;
+}
+.caja3{
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+#purple{
+  background-color: purple;
+  top: 50px;
+  left: 50px;
+}
+#green{
+  background-color: green;
+  left: 50px;
+}
+.caja4{
+  width: 50px;
+  height: 50px;
+}
+#yellow{
+  background-color: yellow;
+  
+}
+#black{
+  background-color: black;
+}
